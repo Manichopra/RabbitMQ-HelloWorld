@@ -1,0 +1,17 @@
+C:\Users\4981\source\repos\RabbitMQ-HelloWorld\RabbitMQ-HelloWorld\bin\Debug\netcoreapp3.1\RabbitMQ-HelloWorld.exe
+C:\Users\4981\source\repos\RabbitMQ-HelloWorld\RabbitMQ-HelloWorld\bin\Debug\netcoreapp3.1\RabbitMQ-HelloWorld.deps.json
+C:\Users\4981\source\repos\RabbitMQ-HelloWorld\RabbitMQ-HelloWorld\bin\Debug\netcoreapp3.1\RabbitMQ-HelloWorld.runtimeconfig.json
+C:\Users\4981\source\repos\RabbitMQ-HelloWorld\RabbitMQ-HelloWorld\bin\Debug\netcoreapp3.1\RabbitMQ-HelloWorld.runtimeconfig.dev.json
+C:\Users\4981\source\repos\RabbitMQ-HelloWorld\RabbitMQ-HelloWorld\bin\Debug\netcoreapp3.1\RabbitMQ-HelloWorld.dll
+C:\Users\4981\source\repos\RabbitMQ-HelloWorld\RabbitMQ-HelloWorld\bin\Debug\netcoreapp3.1\RabbitMQ-HelloWorld.pdb
+C:\Users\4981\source\repos\RabbitMQ-HelloWorld\RabbitMQ-HelloWorld\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\4981\source\repos\RabbitMQ-HelloWorld\RabbitMQ-HelloWorld\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\4981\source\repos\RabbitMQ-HelloWorld\RabbitMQ-HelloWorld\obj\Debug\netcoreapp3.1\RabbitMQ-HelloWorld.csproj.AssemblyReference.cache
+C:\Users\4981\source\repos\RabbitMQ-HelloWorld\RabbitMQ-HelloWorld\obj\Debug\netcoreapp3.1\RabbitMQ-HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4981\source\repos\RabbitMQ-HelloWorld\RabbitMQ-HelloWorld\obj\Debug\netcoreapp3.1\RabbitMQ-HelloWorld.AssemblyInfoInputs.cache
+C:\Users\4981\source\repos\RabbitMQ-HelloWorld\RabbitMQ-HelloWorld\obj\Debug\netcoreapp3.1\RabbitMQ-HelloWorld.AssemblyInfo.cs
+C:\Users\4981\source\repos\RabbitMQ-HelloWorld\RabbitMQ-HelloWorld\obj\Debug\netcoreapp3.1\RabbitMQ-HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\4981\source\repos\RabbitMQ-HelloWorld\RabbitMQ-HelloWorld\obj\Debug\netcoreapp3.1\RabbitMQ-HelloWorld.csproj.CopyComplete
+C:\Users\4981\source\repos\RabbitMQ-HelloWorld\RabbitMQ-HelloWorld\obj\Debug\netcoreapp3.1\RabbitMQ-HelloWorld.dll
+C:\Users\4981\source\repos\RabbitMQ-HelloWorld\RabbitMQ-HelloWorld\obj\Debug\netcoreapp3.1\RabbitMQ-HelloWorld.pdb
+C:\Users\4981\source\repos\RabbitMQ-HelloWorld\RabbitMQ-HelloWorld\obj\Debug\netcoreapp3.1\RabbitMQ-HelloWorld.genruntimeconfig.cache
